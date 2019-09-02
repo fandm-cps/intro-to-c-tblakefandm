@@ -18,10 +18,11 @@ int main(){
         }
         if(guessnum == givennum){
             cout << "Correct!" << endl;
-            break;
         }
         
     }
+    
+    return 0;
     
 
 }
